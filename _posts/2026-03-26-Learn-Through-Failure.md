@@ -4,7 +4,7 @@ date: 2026-03-26
 categories: [Programming Fundamentals, Python, Computer Engineering]
 tags: [Python, Debugging, Problem Solving, Programming Fundamentals, Learning Journey, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
 image:
-  path: /assets/posts/failure.jpg       # Main post banner (.jpg)
+  path: /assets/posts/failure.png     # Main post banner (.jpg)
   alt: "Learning Debugging Through Failure Cover"
 ---
 
