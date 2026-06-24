@@ -6,7 +6,6 @@ tags: [Python, Debugging, Problem Solving, Programming Fundamentals, Learning Jo
 image:
   path: /assets/posts/failure.jpg       # Main post banner (.jpg)
   alt: "Learning Debugging Through Failure Cover"
-  thumbnail: /assets/img/posts/debugging-failures-thumb.jpg  # Your .jpg thumbnail for this post
 ---
 
 # Learning Debugging Through Failure: How Mistakes Made Me a Better Programmer
