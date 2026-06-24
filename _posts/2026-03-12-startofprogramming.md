@@ -4,7 +4,7 @@ date: 2026-06-24
 categories: [Programming Fundamentals, Python, Computer Engineering]
 tags: [Python, Programming, Learning Journey, Computer Engineering, GitHub Portfolio]
 image:
-  path: /assets/img/posts/python-cover.jpg   # Path to your cover page image
+  path: /assets/posts/python-cover.jpg   # Path to your cover page image
   alt: "My First Week Learning Python Cover"  # Alternative text for accessibility
 ---
 
@@ -54,4 +54,4 @@ While exploring programming and future fields such as machine learning, I came a
 
 ---
 
-#MLwithDrBilalAhmad #DrBilalAhmad #MLProject
+#MLwithDrBilalAhmad #DrBilalAhmad #MLProject #ComputerEngineering #CodingJourney #LearnToCode #ProgrammingFundamentals
