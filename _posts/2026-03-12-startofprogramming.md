@@ -1,6 +1,6 @@
 ---
 title: "My First Week Learning Python: The Beginning of My Programming Journey"
-date: 2026-06-24
+date: 2026-03-12
 categories: [Programming Fundamentals, Python, Computer Engineering]
 tags: [Python, Learning Journey, Computer Engineering]
 image:
