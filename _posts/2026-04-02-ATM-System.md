@@ -4,6 +4,9 @@ title: "Building My First ATM System in Python: Turning Concepts into a Real Pro
 date: 2026-04-02
 categories: [Programming Fundamentals, Python, Projects]
 tags: [Python, ATM System, Programming Project, Problem Solving, Computer Engineering]
+image:
+  path: /assets/posts/atm.jpg       # Main post banner (.jpg)
+  alt: "Making Real World system through concepts"
 ---
 
 # Building My First ATM System in Python: Turning Concepts into a Real Project
