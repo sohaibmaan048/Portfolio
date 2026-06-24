@@ -2,7 +2,7 @@
 title: "My First Week Learning Python: The Beginning of My Programming Journey"
 date: 2026-06-24
 categories: [Programming Fundamentals, Python, Computer Engineering]
-tags: [Python,MLwithDrBilalAhmad,DrBilalAhmad, Learning Journey, Computer Engineering]
+tags: [Python, Learning Journey, Computer Engineering]
 image:
   path: /assets/posts/python-cover.jpg   # Path to your cover page image
   alt: "My First Week Learning Python Cover"  # Alternative text for accessibility
