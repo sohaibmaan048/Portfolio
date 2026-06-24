@@ -1,6 +1,6 @@
 ---
 title: " A Year of Challenges and Growth"
-date: 2025-03-05 09:00:00 +0500
+date: 2026-03-05 09:00:00 +0500
 categories: [Personal, Reflection]
 tags: [Growth, ECAT, Hostel Life, Resilience]
 image:
