@@ -2,7 +2,7 @@
 title: "My Journey Through Database Normalization: Learning Why Good Database Design Matters"
 date: 2026-05-11
 categories: [Database Systems, Computer Engineering]
-tags: [Databases, Database Systems, Normalization, SQL, 1NF, 2NF, Learning Journey, Computer Engineering, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
+tags: [Database Systems, Normalization, SQL, 1NF, 2NF, Learning Journey, Computer Engineering, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
 image:
   path: /assets/posts/norm.png
   alt: "Database Normalization and Good Database Design"
