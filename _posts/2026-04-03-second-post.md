@@ -1,8 +1,8 @@
 ---
 title: "DBMS in Action: Creating a Tech Gadgets Table 🗄️💻"
 date: 2026-05-04 10:00:00 +0500
-categories: [Education, University Life]
-tags: [DBMS, SQL, Database, Student Life]
+categories: [Database, Computer Engineering]
+tags: [DBMS, SQL, Database]
 image:
   path: /assets/posts/p2.jpg
 description: "A deep dive into DBMS lab after the Eid break: designing a structured table for tech gadgets with 10 attributes."
