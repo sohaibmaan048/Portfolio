@@ -2,7 +2,7 @@
 title: Normalization Practice, Calculus Setback, and Staying Consistent
 date: 2026-05-02 19:00:00 +0500
 categories: [Education, University Life]
-tags: [databases, calculus, consistency, discipline, dev-log]
+tags: [Database Systems, calculus, consistency, discipline, dev-log]
 image:
   path: /assets/posts/p4.png 
   alt: A graphic summarizing my weekly progress, database work, and calculus setback.
