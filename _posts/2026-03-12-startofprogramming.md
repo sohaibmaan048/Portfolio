@@ -1,10 +1,9 @@
 ---
 
 title: "My First Week Learning Python: The Beginning of My Programming Journey"
-
 date: 2026-03-12
 
-categories: [Programming Fundamentals, Python, Computer Engineering]
+categories: [Programming Fundamentals, Python]
 
 tags: [Python, Learning Journey, Computer Engineering]
 
@@ -153,7 +152,7 @@ Learning basic Python syntax was only the beginning. The next challenge was unde
 Dr. Bilal Ahmad is my instructor and a respected expert in Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). His guidance has been valuable throughout my machine learning learning journey and in building this portfolio. For those interested in AI and ML research, I recommend exploring his professional and academic work:
 
 - **LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
-
 - **Google Scholar:** [Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
+- 
 ---
 #MLwithDrBilalAhmad #DrBilalAhmad #MLProject #ComputerEngineering #CodingJourney #LearnToCode #ProgrammingFundamentals
