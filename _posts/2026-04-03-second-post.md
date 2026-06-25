@@ -1,7 +1,7 @@
 ---
 title: "DBMS in Action: Creating a Tech Gadgets Table 🗄️💻"
 date: 2026-05-04 10:00:00 +0500
-categories: [Database, Computer Engineering]
+categories: [Database Systems, Computer Engineering]
 tags: [DBMS, SQL, Database]
 image:
   path: /assets/posts/p2.jpg
