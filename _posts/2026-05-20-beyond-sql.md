@@ -2,7 +2,7 @@
 title: "What Database Systems Taught Me Beyond SQL: Reflections from a Semester of Learning"
 date: 2026-05-20
 categories: [Database Systems, Computer Engineering]
-tags: [Databases, Database Systems, SQL, Reflection, Student Journey, Computer Engineering, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
+tags: [Database Systems, SQL, Reflection, Student Journey, Computer Engineering, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
 image:
   path: /assets/posts/sql.png       # Main post banner (.jpg)
   alt: "Database Systems Semester Reflections"
