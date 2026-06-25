@@ -2,7 +2,7 @@
 title: "Building My First ATM System in Python: Turning Concepts into a Real Project"
 date: 2026-04-02
 categories: [Programming Fundamentals, Python, Projects]
-tags: [Python, ATM System, Programming Project, Problem Solving, Computer Engineering, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
+tags: [Python, ATM System, Programming Project, Problem Solving, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
 image:
   path: /assets/posts/atm.jpg
   alt: "Making Real World system through concepts"
