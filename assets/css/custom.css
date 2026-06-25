@@ -62,4 +62,12 @@
   height: 1px !important;
   border: none !important;
   margin: 3rem 0 !important;
+/* 6. Hide the Updated/Last-Modified Date and its Separators */
+.post-meta .last-modified,
+[id^="post-list"] .last-modified,
+.post-meta span:has(+ .last-modified),
+.post-meta .last-modified::before,
+.post-meta .last-modified + span::before,
+.d-flex.flex-wrap.text-muted.mt-1.mb-4 > span:nth-child(2) {
+  display: none !important;
 }
