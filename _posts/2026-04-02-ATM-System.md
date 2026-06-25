@@ -38,6 +38,59 @@ Once the menu was alive, checking the balance was a quick win—it just required
 
 The logic seemed foolproof: *Take the input, add it to the balance.* However, I quickly ran into data handling errors. The program would accept incorrect values or produce bizarre math. Through trial and error, I learned a crucial developer lesson: **Always validate user input and manage your data types carefully.**
 
+==================================================
+ 🏦     WELCOME TO THE PYTHON ATM SYSTEM      🏦 
+==================================================
+[+] System initialized successfully...
+[+] Secure connection established.
+[+] Default account balance loaded.
+
+--------------------------------------------------
+📂 MAIN MENU
+--------------------------------------------------
+ [1] 💰 Check Balance
+ [2] 📥 Deposit Money
+ [3] 📤 Withdraw Money
+ [4] ❌ Exit Application
+--------------------------------------------------
+
+👉 Selection (1-4): 2
+
+[▶] Enter the amount to deposit: $500
+[✔] TRANSACTION SUCCESSFUL! 
+[💰] $500.00 has been added to your account.
+
+--------------------------------------------------
+🔄 Current Balance: $1,500.00
+--------------------------------------------------
+
+👉 Do you want to perform another transaction? (y/n): y
+
+--------------------------------------------------
+📂 MAIN MENU
+--------------------------------------------------
+ [1] 💰 Check Balance
+ [2] 📥 Deposit Money
+ [3] 📤 Withdraw Money
+ [4] ❌ Exit Application
+--------------------------------------------------
+
+👉 Selection (1-4): 3
+
+[▶] Enter the amount to withdraw: $200
+[✔] TRANSACTION SUCCESSFUL! 
+[💸] Please collect your cash.
+
+--------------------------------------------------
+🔄 Current Balance: $1,300.00
+--------------------------------------------------
+
+👉 Do you want to perform another transaction? (y/n): n
+
+==================================================
+👋 Thank you for using Python ATM. Have a great day!
+==================================================
+
 ---
 
 ## ⚙️ Conditions, Loops, and Real Purpose
