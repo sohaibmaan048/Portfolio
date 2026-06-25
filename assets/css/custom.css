@@ -64,13 +64,19 @@
   margin: 3rem 0 !important;
 }
 
-/* 6. Hide the Updated/Last-Modified Date and its Separators */
+/* 6. Absolute Hide Rules for any Last-Modified / Updated Meta Details */
+.last-modified,
 .post-meta .last-modified,
-[id^="post-list"] .last-modified,
-.post-meta span:has(+ .last-modified),
-.post-meta .last-modified::before,
-.post-meta .last-modified + span::before,
-.post-meta > span:nth-child(3),
-.d-flex.flex-wrap.text-muted.mt-1.mb-4 > span:nth-child(2) {
+.post-meta span:has(.fa-sync-alt),
+.post-meta span:has(.fa-history),
+.post-meta i.fa-sync-alt,
+.post-meta i.fa-history,
+.post-meta > span:nth-of-type(2),
+.post-meta > span:nth-of-type(3),
+.post-meta > .last-modified,
+[id^="post-list"] .last-modified {
   display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  opacity: 0 !important;
 }
