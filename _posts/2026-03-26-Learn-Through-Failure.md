@@ -1,11 +1,8 @@
 ---
 title: "Learning Debugging Through Failure: How Mistakes Made Me a Better Programmer"
 date: 2026-03-26
-categories: [Programming Fundamentals, Python, Computer Engineering]
+categories: [Programming Fundamentals, Python]
 tags: [Python, Debugging, Problem Solving, Programming Fundamentals, Learning Journey, MLwithDrBilalAhmad, DrBilalAhmad, MLProject]
-image:
-  path: /assets/posts/failure.png     # Main post banner (.jpg)
-  alt: "Learning Debugging Through Failure Cover"
 ---
 
 # Learning Debugging Through Failure: How Mistakes Made Me a Better Programmer
