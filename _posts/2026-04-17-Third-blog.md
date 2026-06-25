@@ -1,6 +1,6 @@
 ---
 title: "Midterms Stress and Internship Journey"
-date: 2026-04-16 12:00:00 +0500
+date: 2026-04-30 12:00:00 +0500
 categories: [Education, Career]
 tags: [Midterms, Internship]
 image:
