@@ -1,6 +1,6 @@
 ---
 title: "DBMS in Action: Creating a Tech Gadgets Table 🗄️💻"
-date: 2026-05-03 10:00:00 +0500
+date: 2026-05-04 10:00:00 +0500
 categories: [Education, University Life]
 tags: [DBMS, SQL, Database, Student Life]
 image:
