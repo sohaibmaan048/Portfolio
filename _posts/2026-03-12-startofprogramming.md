@@ -5,7 +5,7 @@ date: 2026-03-12
 
 categories: [Programming Fundamentals, Python]
 
-tags: [Python, Learning Journey, Computer Engineering]
+tags: [Python, Learning Journey, Newbie]
 
 image:
 
