@@ -2,7 +2,7 @@
 title: Learning Databases, OOP Concepts, and Internship Progress
 date: 2026-04-25 19:00:00 +0500
 categories: [Database Systems, Computer Engineering]
-tags: [databases, oop, internship, software-engineering]
+tags: [oop, internship, software-engineering, Database Systems]
 image:
   path: /assets/posts/p3.png 
   alt: A graphic summarizing my weekly learning journey including databases and OOP concepts.
