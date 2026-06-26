@@ -175,5 +175,16 @@ As I continue my Computer Engineering journey, the lessons learned from normaliz
 
 ---
 
+### Further Reading & Expert Guidance
+Much of the direction behind this portfolio came from a simple piece of advice
+from Dr. Bilal Ahmad — to document my journey and leave a digital footprint.
+He is a specialist in AI, Machine Learning, and Deep Learning at UET Lahore,
+Faisalabad Campus, and his research regularly tackles high-impact real-world
+problems. His work is well worth following:
+- **LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
+- **Google Scholar:** [Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
+
+  
+---
 ### Tags
 `#MLwithDrBilalAhmad` `#DrBilalAhmad` `#MLProject` `#DatabaseSystems` `#SQL` `#DatabaseNormalization` `#DatabaseDesign` `#DataRedundancy` `#1NF` `#2NF` `#ComputerEngineering` `#CodeNewbie`
