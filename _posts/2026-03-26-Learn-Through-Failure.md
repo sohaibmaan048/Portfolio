@@ -79,4 +79,14 @@ Debugging taught me that programming isn't about writing perfect code on day one
 
 ---
 
+### About My Instructor
+The concepts I explore in this blog are shaped in large part by the teaching of
+Dr. Bilal Ahmad, who instructs Programming Fundamentals at
+UET Lahore()fsd campus. Beyond the classroom, he is an active researcher in AI, Machine
+Learning, and Deep Learning — with a strong emphasis on healthcare datasets where
+precision truly matters:
+- **LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
+- **Google Scholar:** [Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
+---
+
 **#MLwithDrBilalAhmad #DrBilalAhmad #MLProject #PythonProgramming #ComputerEngineering #DebuggingCode #ProblemSolving #CodeNewbie**
