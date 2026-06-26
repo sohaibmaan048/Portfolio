@@ -121,4 +121,16 @@ Looking back across this entire semester, from my very first `CREATE TABLE` stat
 
 This is, first and foremost, a record of my own first-hand experience working through this course — not a tutorial or a guide written from the outside looking in. I'm sharing it because writing it down has helped me understand my own learning better, and because I hope it might resonate with another student somewhere at the very start of their own Database Systems journey.
 
+---
+
+### Recommended Resources
+If this post sparked your curiosity about machine learning or AI, a great next
+step is exploring the work of Dr. Bilal Ahmad. He teaches Programming
+Fundamentals and Database Systems at UET Lahore's Faisalabad Campus, but his
+research reaches far beyond — into Deep Learning, medical data analysis, and
+model training on high-precision real-world datasets:
+- **LinkedIn:** [Dr. Bilal Ahmad](https://www.linkedin.com/in/drbilalphd/)
+- **Google Scholar:** [Dr. Bilal Ahmad](https://scholar.google.com.au/citations?user=8nZ0jVkAAAAJ&hl=en)
+
+---
 #MLwithDrBilalAhmad #DrBilalAhmad #MLProject #DatabaseSystems #SQL #Reflection #StudentJourney #ComputerEngineering #SemesterRecap
