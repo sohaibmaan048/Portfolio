@@ -5,7 +5,7 @@ icon: fas fa-code
 order: 2
 ---
 
-<!-- Custom CSS to build professional project cards -->
+<!-- Custom CSS for Professional ML Project Card -->
 <style>
   .project-card {
     background: var(--card-bg, #1e1e24);
@@ -36,10 +36,12 @@ order: 2
   }
   .project-meta {
     font-size: 0.85rem;
-    color: var(--text-muted-color, #8a8a93);
-    background: var(--timeline-node-bg, #2d2d34);
+    font-weight: 600;
+    color: #63e6be; /* Sleek ML Mint/Cyan tone */
+    background: rgba(99, 230, 190, 0.1);
     padding: 6px 12px;
     border-radius: 6px;
+    border: 1px solid rgba(99, 230, 190, 0.2);
   }
   .project-description {
     font-size: 1rem;
@@ -62,9 +64,9 @@ order: 2
     color: #909296;
   }
   .tag-badge.highlight {
-    background: rgba(51, 154, 240, 0.15);
-    border: 1px solid rgba(51, 154, 240, 0.3);
-    color: #339af0;
+    background: rgba(74, 144, 226, 0.15);
+    border: 1px solid rgba(74, 144, 226, 0.3);
+    color: #4a90e2; /* Deep Machine Learning Blue */
   }
   .project-links {
     display: flex;
@@ -79,21 +81,19 @@ order: 2
     font-size: 0.9rem;
     font-weight: 600;
     text-decoration: none !important;
-    transition: background 0.2s;
+    transition: opacity 0.2s, background 0.2s;
   }
-  .btn-primary-custom {
-    background: #2b8a3e;
+  .btn-action:hover {
+    opacity: 0.9;
+  }
+  .btn-live {
+    background: #4a90e2; /* Cyber Blue */
     color: white !important;
   }
-  .btn-primary-custom:hover {
-    background: #237032;
-  }
-  .btn-secondary-custom {
-    background: #ffd43b;
-    color: #121214 !important;
-  }
-  .btn-secondary-custom:hover {
-    background: #fcc419;
+  .btn-github {
+    background: #24292e; /* Classic GitHub Dark */
+    color: white !important;
+    border: 1px solid #444c56;
   }
 </style>
 
@@ -103,10 +103,10 @@ order: 2
     <div>
       <h3 class="project-title">🧠 Stroke Risk Prediction System</h3>
       <div style="margin-top: 6px; font-size: 0.85rem; color: var(--text-muted-color);">
-        <strong>Supervisor:</strong> Dr. Bilal Ahmad &nbsp;|&nbsp; <strong>Collaborator:</strong> Faryal Fatima
+        <strong>Supervisor:</strong> Dr. Bilal Ahmad
       </div>
     </div>
-    <span class="project-meta">Machine Learning</span>
+    <span class="project-meta">Data Science & ML</span>
   </div>
 
   <p class="project-description">
@@ -118,15 +118,15 @@ order: 2
     <span class="tag-badge highlight">Random Forest</span>
     <span class="tag-badge">MySQL (3NF)</span>
     <span class="tag-badge">Python</span>
-    <span class="tag-badge">Hugging Face Spaces</span>
+    <span class="tag-badge">Scikit-Learn</span>
   </div>
 
   <div class="project-links">
-    <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-primary-custom">
-      <i class="fas fa-rocket"></i> Live Web App
+    <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-live">
+      <i class="fas fa-rocket"></i> Live Demo
     </a>
-    <a href="YOUR_HUGGING_FACE_URL_HERE" target="_blank" class="btn-action btn-secondary-custom">
-      <i class="fab fa-gitter"></i> Hugging Face Space
+    <a href="YOUR_GITHUB_REPO_URL_HERE" target="_blank" class="btn-action btn-github">
+      <i class="fab fa-github"></i> GitHub Repository
     </a>
   </div>
 </div>
