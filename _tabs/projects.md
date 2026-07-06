@@ -5,17 +5,128 @@ icon: fas fa-code
 order: 2
 ---
 
-## Featured Projects
+<!-- Custom CSS to build professional project cards -->
+<style>
+  .project-card {
+    background: var(--card-bg, #1e1e24);
+    border: 1px solid var(--main-border-color, #2e2e33);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+  }
+  .project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid var(--main-border-color, #2e2e33);
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+  }
+  .project-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0;
+    color: var(--heading-color, #fff);
+  }
+  .project-meta {
+    font-size: 0.85rem;
+    color: var(--text-muted-color, #8a8a93);
+    background: var(--timeline-node-bg, #2d2d34);
+    padding: 6px 12px;
+    border-radius: 6px;
+  }
+  .project-description {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 24px;
+  }
+  .tag-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 4px;
+    background: #25262b;
+    border: 1px solid #373a40;
+    color: #909296;
+  }
+  .tag-badge.highlight {
+    background: rgba(51, 154, 240, 0.15);
+    border: 1px solid rgba(51, 154, 240, 0.3);
+    color: #339af0;
+  }
+  .project-links {
+    display: flex;
+    gap: 12px;
+  }
+  .btn-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: background 0.2s;
+  }
+  .btn-primary-custom {
+    background: #2b8a3e;
+    color: white !important;
+  }
+  .btn-primary-custom:hover {
+    background: #237032;
+  }
+  .btn-secondary-custom {
+    background: #ffd43b;
+    color: #121214 !important;
+  }
+  .btn-secondary-custom:hover {
+    background: #fcc419;
+  }
+</style>
 
-### 🧠 Stroke Risk Prediction System
-> **Supervised by:** Dr. Bilal Ahmad | **Collaborator:** Faryal Fatima
+<!-- ================= STROKE PREDICTION PROJECT ================= -->
+<div class="project-card">
+  <div class="project-header">
+    <div>
+      <h3 class="project-title">🧠 Stroke Risk Prediction System</h3>
+      <div style="margin-top: 6px; font-size: 0.85rem; color: var(--text-muted-color);">
+        <strong>Supervisor:</strong> Dr. Bilal Ahmad &nbsp;|&nbsp; <strong>Collaborator:</strong> Faryal Fatima
+      </div>
+    </div>
+    <span class="project-meta">Machine Learning</span>
+  </div>
 
-An end-to-end Machine Learning pipeline built to predict stroke risks based on clinical and lifestyle factors. The project transitions an isolated data science workflow into a fully functional, production-ready web application.
+  <p class="project-description">
+    An end-to-end Machine Learning pipeline built to predict stroke risks based on clinical and lifestyle factors. This project transitions an isolated data science workflow into a fully functional, production-ready web application backed by structural database integrity.
+  </p>
 
-*   **🚀 Live Web App:** [View Live Deployment](YOUR_FASTAPI_LIVE_URL_HERE)
-    *   *Backend:* Powered by a high-performance **FastAPI** REST API.
-    *   *Database:* Backed by a fully normalized **3NF MySQL database** to handle user logs securely.
-*   **🤗 Hugging Face Space:** [View Model on Hugging Face](YOUR_HUGGING_FACE_URL_HERE)
-    *   *Model:* Features an optimized **Random Forest Classification** model, precisely balanced to handle dataset skewness.
+  <div class="tech-stack">
+    <span class="tag-badge highlight">FastAPI</span>
+    <span class="tag-badge highlight">Random Forest</span>
+    <span class="tag-badge">MySQL (3NF)</span>
+    <span class="tag-badge">Python</span>
+    <span class="tag-badge">Hugging Face Spaces</span>
+  </div>
 
-
+  <div class="project-links">
+    <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-primary-custom">
+      <i class="fas fa-rocket"></i> Live Web App
+    </a>
+    <a href="YOUR_HUGGING_FACE_URL_HERE" target="_blank" class="btn-action btn-secondary-custom">
+      <i class="fab fa-gitter"></i> Hugging Face Space
+    </a>
+  </div>
+</div>
