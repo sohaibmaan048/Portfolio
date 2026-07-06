@@ -57,11 +57,11 @@ order: 2
   .tag-badge {
     font-size: 0.75rem;
     font-weight: 600;
-    padding: 4px 10px;
-    border-radius: 4px;
-    background: #25262b;
-    border: 1px solid #373a40;
-    color: #909296;
+    padding: 5px 12px;
+    border-radius: 6px;
+    background: rgba(74, 144, 226, 0.1);      /* Subtle transparent tech blue */
+    border: 1px solid rgba(74, 144, 226, 0.25); /* matching glowing border */
+    color: #5dade2;                             /* Crisp, bright tech blue text */
   }
   .tag-badge.highlight {
     background: rgba(74, 144, 226, 0.15);
