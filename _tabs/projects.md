@@ -18,7 +18,4 @@ An end-to-end Machine Learning pipeline built to predict stroke risks based on c
 *   **🤗 Hugging Face Space:** [View Model on Hugging Face](YOUR_HUGGING_FACE_URL_HERE)
     *   *Model:* Features an optimized **Random Forest Classification** model, precisely balanced to handle dataset skewness.
 
----
 
-### 🗳️ Digital Voting System
-A pure hardware-based, synchronous counter voting machine built using **74LS192 counters**, 7447 display drivers, and 74138 ICs. It completely bypasses microcontrollers or FPGAs to focus on pure digital logic design.
