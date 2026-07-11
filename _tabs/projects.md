@@ -125,7 +125,7 @@ order: 2
     <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-live">
       <i class="fas fa-rocket"></i> Live Demo
     </a>
-    <a href="YOUR_GITHUB_REPO_URL_HERE" target="_blank" class="btn-action btn-github">
+    <a href="https://github.com/sohaibmaan048/Stroke-Prediction" target="_blank" class="btn-action btn-github">
       <i class="fab fa-github"></i> GitHub Repository
     </a>
   </div>
