@@ -27,7 +27,12 @@ order: 1
     <small>(.NET / OOP)</small>
   </div>
   <div class="skill-item cpp">
-    <i class="fas fa-terminal"></i>
+    <svg class="cpp-logo" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path fill="#00599C" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.9-62c-.6-1.2-1.5-2.1-2.5-2.7z"/>
+      <path fill="#004482" d="M11.1 95.9c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V37.7c0-.9-.1-1.9-.6-2.9l-106.6 61.1z"/>
+      <path fill="#659AD2" d="M115.4 30.7L64 60.7 11.1 95.9 115.4 30.7z"/>
+      <text x="45" y="70" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#fff">C++</text>
+    </svg>
     <span>C++</span>
     <small>(Game Development / OOP)</small>
   </div>
@@ -166,6 +171,15 @@ header.d-flex.justify-content-between,
     margin-bottom: 12px;
     display: block;
     color: #4f46e5;
+  }
+
+  .skill-item .cpp-logo {
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   /* --- Perfectly Aligned & Moving Timeline --- */
