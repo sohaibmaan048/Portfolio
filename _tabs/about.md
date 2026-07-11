@@ -170,6 +170,10 @@ header.d-flex.justify-content-between,
     color: #4f46e5;
   }
 
+  .skill-item i.devicon-cplusplus-plain {
+    width: 1em;
+  }
+
   /* --- Perfectly Aligned & Moving Timeline --- */
   .timeline {
     position: relative;
