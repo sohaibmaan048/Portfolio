@@ -117,9 +117,6 @@ header.d-flex.justify-content-between,
   .display-title {
     font-size: 3rem;
     font-weight: 900;
-    background: linear-gradient(to right, #4f46e5, #06b6d4);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     margin-bottom: 0.2rem;
   }
 
@@ -130,7 +127,11 @@ header.d-flex.justify-content-between,
     white-space: nowrap;
     vertical-align: bottom;
     border-right: 3px solid #06b6d4;
+    background: linear-gradient(to right, #4f46e5, #06b6d4);
+    background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: transparent;
     animation:
       typing 6s steps(11, end) infinite,
       blink-caret 0.75s step-end infinite;
