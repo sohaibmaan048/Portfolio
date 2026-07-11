@@ -6,7 +6,7 @@ order: 1
 ---
 
 <div class="about-header">
-  <h1 class="display-title">Hi, I'm Sohaib Maan</h1>
+  <h1 class="display-title"><span class="typewriter">Sohaib Maan</span></h1>
   <p class="hero-subtitle">Machine Learning Enthusiast & Developer</p>
   <blockquote class="mission-statement">
     "Dedicated to turning raw data into intelligent insights and building predictive models for real-world impact."
@@ -121,6 +121,29 @@ header.d-flex.justify-content-between,
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 0.2rem;
+  }
+
+  .typewriter {
+    display: inline-block;
+    max-width: 11ch;
+    overflow: hidden;
+    white-space: nowrap;
+    vertical-align: bottom;
+    border-right: 3px solid #06b6d4;
+    -webkit-text-fill-color: transparent;
+    animation:
+      typing 6s steps(11, end) infinite,
+      blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    0%, 8%   { width: 0; }
+    45%, 55% { width: 11ch; }
+    92%, 100% { width: 0; }
+  }
+
+  @keyframes blink-caret {
+    50% { border-color: transparent; }
   }
 
   .hero-subtitle {
