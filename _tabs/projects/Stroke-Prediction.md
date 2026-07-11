@@ -166,7 +166,7 @@ order: 2
     <span class="term-dot red"></span>
     <span class="term-dot yellow"></span>
     <span class="term-dot green"></span>
-    <span class="term-path">~/projects/stroke-risk-prediction</span>
+    <span class="term-path">Stroke-Risk-Prediction</span>
   </div>
   <div class="project-inner">
     <div class="project-header">
