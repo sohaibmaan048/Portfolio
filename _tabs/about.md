@@ -24,12 +24,12 @@ order: 1
   <div class="skill-item csharp">
     <i class="fas fa-code"></i>
     <span>C#</span>
-    <small>(.NET / ML.NET)</small>
+    <small>(.NET / OOP)</small>
   </div>
   <div class="skill-item cpp">
     <i class="fas fa-terminal"></i>
     <span>C++</span>
-    <small>(Data Structures / OOP)</small>
+    <small>(Game Development / OOP)</small>
   </div>
   <div class="skill-item sql">
     <i class="fas fa-database"></i>
@@ -40,6 +40,11 @@ order: 1
     <i class="fab fa-html5"></i>
     <span>Web</span>
     <small>(HTML5 / CSS3)</small>
+  </div>
+  <div class="skill-item js">
+    <i class="fab fa-js-square"></i>
+    <span>JavaScript</span>
+    <small>(ES6)</small>
   </div>
 </div>
 
@@ -79,6 +84,15 @@ order: 1
       <h3 class="milestone-title">MySQL & Data Engineering 🗄️</h3>
       <p class="milestone-date">FEB 2026 - JUNE 2026</p>
       <p>Managing relational data structures to ensure seamless data flow for production-grade <strong>ML pipelines</strong>.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3 class="milestone-title">C++ 💻</h3>
+      <p class="milestone-date">JUL 2026 - SEP 2026</p>
+      <p>Learning <strong>C++</strong> independently, building on OOP concepts from C#, with a focus on data structures and core language fundamentals.</p>
     </div>
   </div>
 </div>
