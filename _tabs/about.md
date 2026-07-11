@@ -15,6 +15,8 @@ order: 1
 
 ## 🤖 Tech Stack & Tools
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 <div class="skills-grid">
   <div class="skill-item python">
     <i class="fab fa-python"></i>
@@ -27,12 +29,7 @@ order: 1
     <small>(.NET / OOP)</small>
   </div>
   <div class="skill-item cpp">
-    <i class="cpp-icon">
-      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" aria-hidden="true">
-        <polygon points="12,2 21,7 21,17 12,22 3,17 3,7" fill="none" stroke="currentColor" stroke-width="1.5"/>
-        <text x="12" y="15.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="700" fill="currentColor">C++</text>
-      </svg>
-    </i>
+    <i class="devicon-cplusplus-plain"></i>
     <span>C++</span>
     <small>(Game Development / OOP)</small>
   </div>
