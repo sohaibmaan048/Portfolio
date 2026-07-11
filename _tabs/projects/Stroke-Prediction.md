@@ -4,6 +4,7 @@ title: Projects
 icon: fas fa-code
 order: 2
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <!-- Custom CSS for Professional ML Project Card -->
 <style>
   .project-card {
@@ -100,6 +101,9 @@ order: 2
     margin-bottom: 24px;
   }
   .tag-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
     font-size: 0.75rem;
     font-weight: 600;
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
@@ -109,6 +113,9 @@ order: 2
     border: 1px solid rgba(74, 144, 226, 0.25); /* matching glowing border */
     color: #5dade2;                             /* Crisp, bright tech blue text */
     transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .tag-badge i {
+    font-size: 0.95rem;
   }
   .tag-badge:hover {
     transform: translateY(-2px);
@@ -175,11 +182,11 @@ order: 2
       An end-to-end Machine Learning pipeline built to predict stroke risks based on clinical and lifestyle factors. This project transitions an isolated data science workflow into a fully functional, production-ready web application backed by structural database integrity.
     </p>
     <div class="tech-stack">
-      <span class="tag-badge highlight">FastAPI</span>
-      <span class="tag-badge highlight">Random Forest</span>
-      <span class="tag-badge">MySQL (3NF)</span>
-      <span class="tag-badge">Python</span>
-      <span class="tag-badge">Scikit-Learn</span>
+      <span class="tag-badge highlight"><i class="devicon-fastapi-plain"></i> FastAPI</span>
+      <span class="tag-badge highlight"><i class="fas fa-sitemap"></i> Random Forest</span>
+      <span class="tag-badge"><i class="devicon-mysql-plain"></i> MySQL (3NF)</span>
+      <span class="tag-badge"><i class="devicon-python-plain"></i> Python</span>
+      <span class="tag-badge"><i class="devicon-scikitlearn-plain"></i> Scikit-Learn</span>
     </div>
     <div class="project-links">
       <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-live">
