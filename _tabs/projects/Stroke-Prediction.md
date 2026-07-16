@@ -189,7 +189,7 @@ order: 2
       <span class="tag-badge"><i class="devicon-scikitlearn-plain"></i> Scikit-Learn</span>
     </div>
     <div class="project-links">
-      <a href="YOUR_FASTAPI_LIVE_URL_HERE" target="_blank" class="btn-action btn-live">
+      <a href="https://stroke-prediction-mghj.onrender.com" target="_blank" class="btn-action btn-live">
         <i class="fas fa-rocket"></i> Live Demo
       </a>
       <a href="https://github.com/sohaibmaan048/Stroke-Prediction" target="_blank" class="btn-action btn-github">
