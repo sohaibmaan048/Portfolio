@@ -31,7 +31,7 @@ order: 1
   <div class="skill-item cpp">
     <i class="devicon-cplusplus-plain"></i>
     <span>C++</span>
-    <small>(Game Development / OOP)</small>
+    <small>(System Programming / OOP)</small>
   </div>
   <div class="skill-item sql">
     <i class="fas fa-database"></i>
